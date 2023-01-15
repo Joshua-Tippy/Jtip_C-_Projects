@@ -1,0 +1,20 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\EX7\VacaationPlanner\VacaationPlanner\bin\Debug\VacaationPlanner.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\EX7\VacaationPlanner\VacaationPlanner\bin\Debug\VacaationPlanner.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\EX7\VacaationPlanner\VacaationPlanner\bin\Debug\VacaationPlanner.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\EX7\VacaationPlanner\VacaationPlanner\obj\Debug\VacaationPlanner.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\EX7\VacaationPlanner\VacaationPlanner\obj\Debug\VacaationPlanner.Form1.resources
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\EX7\VacaationPlanner\VacaationPlanner\obj\Debug\VacaationPlanner.Properties.Resources.resources
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\EX7\VacaationPlanner\VacaationPlanner\obj\Debug\VacaationPlanner.csproj.GenerateResource.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\EX7\VacaationPlanner\VacaationPlanner\obj\Debug\VacaationPlanner.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\EX7\VacaationPlanner\VacaationPlanner\obj\Debug\VacaationPlanner.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\EX7\VacaationPlanner\VacaationPlanner\obj\Debug\VacaationPlanner.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\Ch12 Exercises\EX7\VacaationPlanner\VacaationPlanner\bin\Debug\VacaationPlanner.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\Ch12 Exercises\EX7\VacaationPlanner\VacaationPlanner\bin\Debug\VacaationPlanner.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\Ch12 Exercises\EX7\VacaationPlanner\VacaationPlanner\bin\Debug\VacaationPlanner.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\Ch12 Exercises\EX7\VacaationPlanner\VacaationPlanner\obj\Debug\VacaationPlanner.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\Ch12 Exercises\EX7\VacaationPlanner\VacaationPlanner\obj\Debug\VacaationPlanner.Form1.resources
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\Ch12 Exercises\EX7\VacaationPlanner\VacaationPlanner\obj\Debug\VacaationPlanner.Properties.Resources.resources
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\Ch12 Exercises\EX7\VacaationPlanner\VacaationPlanner\obj\Debug\VacaationPlanner.csproj.GenerateResource.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\Ch12 Exercises\EX7\VacaationPlanner\VacaationPlanner\obj\Debug\VacaationPlanner.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\Ch12 Exercises\EX7\VacaationPlanner\VacaationPlanner\obj\Debug\VacaationPlanner.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\Ch12 Exercises\EX7\VacaationPlanner\VacaationPlanner\obj\Debug\VacaationPlanner.pdb

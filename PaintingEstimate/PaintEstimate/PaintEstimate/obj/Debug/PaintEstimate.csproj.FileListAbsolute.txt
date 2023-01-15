@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\PaintingEstimate\PaintEstimate\PaintEstimate\bin\Debug\PaintEstimate.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\PaintingEstimate\PaintEstimate\PaintEstimate\bin\Debug\PaintEstimate.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\PaintingEstimate\PaintEstimate\PaintEstimate\bin\Debug\PaintEstimate.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\PaintingEstimate\PaintEstimate\PaintEstimate\obj\Debug\PaintEstimate.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\PaintingEstimate\PaintEstimate\PaintEstimate\obj\Debug\PaintEstimate.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\PaintingEstimate\PaintEstimate\PaintEstimate\obj\Debug\PaintEstimate.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\PaintingEstimate\PaintEstimate\PaintEstimate\obj\Debug\PaintEstimate.pdb

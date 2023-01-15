@@ -1,0 +1,16 @@
+C:\Users\itc204\Documents\JoshuaTippy\advanced app\Student\Student\obj\Debug\Student.csprojAssemblyReference.cache
+C:\Users\itc204\Documents\JoshuaTippy\advanced app\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+D:\Advanced Application\Student\Student\obj\Debug\Student.csprojAssemblyReference.cache
+D:\Advanced Application\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+D:\Advanced Application\Student\Student\bin\Debug\Student.exe.config
+D:\Advanced Application\Student\Student\bin\Debug\Student.exe
+D:\Advanced Application\Student\Student\bin\Debug\Student.pdb
+D:\Advanced Application\Student\Student\obj\Debug\Student.exe
+D:\Advanced Application\Student\Student\obj\Debug\Student.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Student\Student\bin\Debug\Student.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Student\Student\bin\Debug\Student.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Student\Student\bin\Debug\Student.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Student\Student\obj\Debug\Student.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Student\Student\obj\Debug\Student.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Student\Student\obj\Debug\Student.pdb

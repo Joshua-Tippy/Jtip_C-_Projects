@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Final\SalesReceipt\SalesReceipt\bin\Debug\SalesReceipt.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Final\SalesReceipt\SalesReceipt\bin\Debug\SalesReceipt.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Final\SalesReceipt\SalesReceipt\bin\Debug\SalesReceipt.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Final\SalesReceipt\SalesReceipt\obj\Debug\SalesReceipt.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Final\SalesReceipt\SalesReceipt\obj\Debug\SalesReceipt.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Final\SalesReceipt\SalesReceipt\obj\Debug\SalesReceipt.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Final\SalesReceipt\SalesReceipt\obj\Debug\SalesReceipt.pdb

@@ -1,0 +1,13 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose2\ExeptionsOnPurpose2\bin\Debug\ExeptionsOnPurpose2.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose2\ExeptionsOnPurpose2\bin\Debug\ExeptionsOnPurpose2.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose2\ExeptionsOnPurpose2\bin\Debug\ExeptionsOnPurpose2.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose2\ExeptionsOnPurpose2\obj\Debug\ExeptionsOnPurpose2.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose2\ExeptionsOnPurpose2\obj\Debug\ExeptionsOnPurpose2.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose2\ExeptionsOnPurpose2\obj\Debug\ExeptionsOnPurpose2.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose2 Pg505-506\ExeptionsOnPurpose2\bin\Debug\ExeptionsOnPurpose2.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose2 Pg505-506\ExeptionsOnPurpose2\bin\Debug\ExeptionsOnPurpose2.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose2 Pg505-506\ExeptionsOnPurpose2\bin\Debug\ExeptionsOnPurpose2.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose2 Pg505-506\ExeptionsOnPurpose2\obj\Debug\ExeptionsOnPurpose2.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose2 Pg505-506\ExeptionsOnPurpose2\obj\Debug\ExeptionsOnPurpose2.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose2 Pg505-506\ExeptionsOnPurpose2\obj\Debug\ExeptionsOnPurpose2.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose2 Pg505-506\ExeptionsOnPurpose2\obj\Debug\ExeptionsOnPurpose2.pdb

@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\TipCalc\TipCalculation\TipCalculation\bin\Debug\TipCalculation.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\TipCalc\TipCalculation\TipCalculation\bin\Debug\TipCalculation.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\TipCalc\TipCalculation\TipCalculation\bin\Debug\TipCalculation.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\TipCalc\TipCalculation\TipCalculation\obj\Debug\TipCalculation.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\TipCalc\TipCalculation\TipCalculation\obj\Debug\TipCalculation.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\TipCalc\TipCalculation\TipCalculation\obj\Debug\TipCalculation.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\TipCalc\TipCalculation\TipCalculation\obj\Debug\TipCalculation.pdb

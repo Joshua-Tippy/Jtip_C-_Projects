@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\BonusCalc\BonusCalculation\BonusCalculation\bin\Debug\BonusCalculation.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\BonusCalc\BonusCalculation\BonusCalculation\bin\Debug\BonusCalculation.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\BonusCalc\BonusCalculation\BonusCalculation\bin\Debug\BonusCalculation.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\BonusCalc\BonusCalculation\BonusCalculation\obj\Debug\BonusCalculation.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\BonusCalc\BonusCalculation\BonusCalculation\obj\Debug\BonusCalculation.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\BonusCalc\BonusCalculation\BonusCalculation\obj\Debug\BonusCalculation.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\BonusCalc\BonusCalculation\BonusCalculation\obj\Debug\BonusCalculation.pdb

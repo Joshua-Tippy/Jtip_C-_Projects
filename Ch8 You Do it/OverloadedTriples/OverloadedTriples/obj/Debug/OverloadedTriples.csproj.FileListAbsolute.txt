@@ -1,0 +1,6 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\OverloadedTriples\OverloadedTriples\OverloadedTriples\bin\Debug\OverloadedTriples.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\OverloadedTriples\OverloadedTriples\OverloadedTriples\bin\Debug\OverloadedTriples.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\OverloadedTriples\OverloadedTriples\OverloadedTriples\bin\Debug\OverloadedTriples.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\OverloadedTriples\OverloadedTriples\OverloadedTriples\obj\Debug\OverloadedTriples.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\OverloadedTriples\OverloadedTriples\OverloadedTriples\obj\Debug\OverloadedTriples.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\OverloadedTriples\OverloadedTriples\OverloadedTriples\obj\Debug\OverloadedTriples.pdb

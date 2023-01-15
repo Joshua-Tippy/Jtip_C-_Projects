@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\DeskCalc\DeskCalculator\DeskCalculator\bin\Debug\DeskCalculator.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\DeskCalc\DeskCalculator\DeskCalculator\bin\Debug\DeskCalculator.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\DeskCalc\DeskCalculator\DeskCalculator\bin\Debug\DeskCalculator.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\DeskCalc\DeskCalculator\DeskCalculator\obj\Debug\DeskCalculator.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\DeskCalc\DeskCalculator\DeskCalculator\obj\Debug\DeskCalculator.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\DeskCalc\DeskCalculator\DeskCalculator\obj\Debug\DeskCalculator.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\DeskCalc\DeskCalculator\DeskCalculator\obj\Debug\DeskCalculator.pdb

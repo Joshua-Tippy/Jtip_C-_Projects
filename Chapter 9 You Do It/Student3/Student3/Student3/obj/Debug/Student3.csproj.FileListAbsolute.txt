@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Chapter 9 You Do It\Student3\Student3\Student3\obj\Debug\Student3.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Chapter 9 You Do It\Student3\Student3\Student3\obj\Debug\Student3.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Chapter 9 You Do It\Student3\Student3\Student3\bin\Debug\Student3.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Chapter 9 You Do It\Student3\Student3\Student3\bin\Debug\Student3.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Chapter 9 You Do It\Student3\Student3\Student3\bin\Debug\Student3.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Chapter 9 You Do It\Student3\Student3\Student3\obj\Debug\Student3.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Chapter 9 You Do It\Student3\Student3\Student3\obj\Debug\Student3.pdb

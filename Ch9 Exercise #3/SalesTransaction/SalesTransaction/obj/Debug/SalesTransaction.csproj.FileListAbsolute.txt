@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch9 Exercise #3\SalesTransaction\SalesTransaction\bin\Debug\SalesTransaction.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch9 Exercise #3\SalesTransaction\SalesTransaction\bin\Debug\SalesTransaction.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch9 Exercise #3\SalesTransaction\SalesTransaction\bin\Debug\SalesTransaction.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch9 Exercise #3\SalesTransaction\SalesTransaction\obj\Debug\SalesTransaction.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch9 Exercise #3\SalesTransaction\SalesTransaction\obj\Debug\SalesTransaction.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch9 Exercise #3\SalesTransaction\SalesTransaction\obj\Debug\SalesTransaction.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch9 Exercise #3\SalesTransaction\SalesTransaction\obj\Debug\SalesTransaction.pdb

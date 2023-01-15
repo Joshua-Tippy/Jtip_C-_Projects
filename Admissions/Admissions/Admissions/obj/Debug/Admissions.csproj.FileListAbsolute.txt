@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Admissions\Admissions\Admissions\bin\Debug\Admissions.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Admissions\Admissions\Admissions\bin\Debug\Admissions.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Admissions\Admissions\Admissions\bin\Debug\Admissions.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Admissions\Admissions\Admissions\obj\Debug\Admissions.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Admissions\Admissions\Admissions\obj\Debug\Admissions.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Admissions\Admissions\Admissions\obj\Debug\Admissions.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Admissions\Admissions\Admissions\obj\Debug\Admissions.pdb

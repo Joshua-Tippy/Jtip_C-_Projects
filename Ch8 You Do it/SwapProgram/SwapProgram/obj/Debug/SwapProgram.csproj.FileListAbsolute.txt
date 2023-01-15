@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\SwapPrograms\SwapProgram\SwapProgram\bin\Debug\SwapProgram.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\SwapPrograms\SwapProgram\SwapProgram\bin\Debug\SwapProgram.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\SwapPrograms\SwapProgram\SwapProgram\bin\Debug\SwapProgram.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\SwapPrograms\SwapProgram\SwapProgram\obj\Debug\SwapProgram.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\SwapPrograms\SwapProgram\SwapProgram\obj\Debug\SwapProgram.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\SwapPrograms\SwapProgram\SwapProgram\obj\Debug\SwapProgram.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\SwapPrograms\SwapProgram\SwapProgram\obj\Debug\SwapProgram.pdb

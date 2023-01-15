@@ -1,0 +1,14 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose YDI Pg489\ExeptionsOnPurpose YDI Pg489\bin\Debug\ExeptionsOnPurpose YDI Pg489.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose YDI Pg489\ExeptionsOnPurpose YDI Pg489\bin\Debug\ExeptionsOnPurpose YDI Pg489.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose YDI Pg489\ExeptionsOnPurpose YDI Pg489\bin\Debug\ExeptionsOnPurpose YDI Pg489.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose YDI Pg489\ExeptionsOnPurpose YDI Pg489\obj\Debug\ExeptionsOnPurpose YDI Pg489.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose YDI Pg489\ExeptionsOnPurpose YDI Pg489\obj\Debug\ExeptionsOnPurpose YDI Pg489.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose YDI Pg489\ExeptionsOnPurpose YDI Pg489\obj\Debug\ExeptionsOnPurpose YDI Pg489.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose YDI Pg489\ExeptionsOnPurpose YDI Pg489\obj\Debug\ExeptionsOnPurpose YDI Pg489.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose Pg489-491 & 499-500\ExeptionsOnPurpose YDI Pg489\bin\Debug\ExeptionsOnPurpose YDI Pg489.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose Pg489-491 & 499-500\ExeptionsOnPurpose YDI Pg489\bin\Debug\ExeptionsOnPurpose YDI Pg489.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose Pg489-491 & 499-500\ExeptionsOnPurpose YDI Pg489\bin\Debug\ExeptionsOnPurpose YDI Pg489.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose Pg489-491 & 499-500\ExeptionsOnPurpose YDI Pg489\obj\Debug\ExeptionsOnPurpose YDI Pg489.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose Pg489-491 & 499-500\ExeptionsOnPurpose YDI Pg489\obj\Debug\ExeptionsOnPurpose YDI Pg489.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose Pg489-491 & 499-500\ExeptionsOnPurpose YDI Pg489\obj\Debug\ExeptionsOnPurpose YDI Pg489.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\ExeptionsOnPurpose Pg489-491 & 499-500\ExeptionsOnPurpose YDI Pg489\obj\Debug\ExeptionsOnPurpose YDI Pg489.pdb

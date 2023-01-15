@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\MilesToKm\MilesToKilometeres\MilesToKilometeres\bin\Debug\MilesToKilometeres.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\MilesToKm\MilesToKilometeres\MilesToKilometeres\bin\Debug\MilesToKilometeres.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\MilesToKm\MilesToKilometeres\MilesToKilometeres\bin\Debug\MilesToKilometeres.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\MilesToKm\MilesToKilometeres\MilesToKilometeres\obj\Debug\MilesToKilometeres.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\MilesToKm\MilesToKilometeres\MilesToKilometeres\obj\Debug\MilesToKilometeres.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\MilesToKm\MilesToKilometeres\MilesToKilometeres\obj\Debug\MilesToKilometeres.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\MilesToKm\MilesToKilometeres\MilesToKilometeres\obj\Debug\MilesToKilometeres.pdb

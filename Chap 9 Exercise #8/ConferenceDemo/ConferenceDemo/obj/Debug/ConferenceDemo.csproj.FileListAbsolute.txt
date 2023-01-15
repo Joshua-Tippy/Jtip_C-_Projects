@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Chap 9 Exercise #8\ConferenceDemo\ConferenceDemo\obj\Debug\ConferenceDemo.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Chap 9 Exercise #8\ConferenceDemo\ConferenceDemo\obj\Debug\ConferenceDemo.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Chap 9 Exercise #8\ConferenceDemo\ConferenceDemo\bin\Debug\ConferenceDemo.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Chap 9 Exercise #8\ConferenceDemo\ConferenceDemo\bin\Debug\ConferenceDemo.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Chap 9 Exercise #8\ConferenceDemo\ConferenceDemo\bin\Debug\ConferenceDemo.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Chap 9 Exercise #8\ConferenceDemo\ConferenceDemo\obj\Debug\ConferenceDemo.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Chap 9 Exercise #8\ConferenceDemo\ConferenceDemo\obj\Debug\ConferenceDemo.pdb

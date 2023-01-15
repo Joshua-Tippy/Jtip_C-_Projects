@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch8 Debug\Debug\Debug\DebugFight3\DebugFight3\bin\Debug\DebugFight3.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch8 Debug\Debug\Debug\DebugFight3\DebugFight3\bin\Debug\DebugFight3.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch8 Debug\Debug\Debug\DebugFight3\DebugFight3\bin\Debug\DebugFight3.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch8 Debug\Debug\Debug\DebugFight3\DebugFight3\obj\Debug\DebugFight3.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch8 Debug\Debug\Debug\DebugFight3\DebugFight3\obj\Debug\DebugFight3.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch8 Debug\Debug\Debug\DebugFight3\DebugFight3\obj\Debug\DebugFight3.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch8 Debug\Debug\Debug\DebugFight3\DebugFight3\obj\Debug\DebugFight3.pdb

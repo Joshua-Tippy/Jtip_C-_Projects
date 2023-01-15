@@ -1,0 +1,14 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\SoccerPlayer\TestSoccerPlayer\TestSoccerPlayer\bin\Debug\TestSoccerPlayer.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\SoccerPlayer\TestSoccerPlayer\TestSoccerPlayer\bin\Debug\TestSoccerPlayer.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\SoccerPlayer\TestSoccerPlayer\TestSoccerPlayer\bin\Debug\TestSoccerPlayer.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\SoccerPlayer\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\TestSoccerPlayer.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\SoccerPlayer\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\TestSoccerPlayer.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\SoccerPlayer\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\TestSoccerPlayer.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\SoccerPlayer\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\TestSoccerPlayer.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch 9 Accessor Assignments\TestSoccerPlayer\TestSoccerPlayer\bin\Debug\TestSoccerPlayer.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch 9 Accessor Assignments\TestSoccerPlayer\TestSoccerPlayer\bin\Debug\TestSoccerPlayer.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch 9 Accessor Assignments\TestSoccerPlayer\TestSoccerPlayer\bin\Debug\TestSoccerPlayer.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch 9 Accessor Assignments\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\TestSoccerPlayer.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch 9 Accessor Assignments\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\TestSoccerPlayer.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch 9 Accessor Assignments\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\TestSoccerPlayer.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch 9 Accessor Assignments\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\TestSoccerPlayer.pdb

@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\SubscriptExeptionTest\SubscriptExeptionTest\obj\Debug\SubscriptExeptionTest.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\SubscriptExeptionTest\SubscriptExeptionTest\obj\Debug\SubscriptExeptionTest.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\SubscriptExeptionTest\SubscriptExeptionTest\bin\Debug\SubscriptExeptionTest.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\SubscriptExeptionTest\SubscriptExeptionTest\bin\Debug\SubscriptExeptionTest.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\SubscriptExeptionTest\SubscriptExeptionTest\bin\Debug\SubscriptExeptionTest.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\SubscriptExeptionTest\SubscriptExeptionTest\obj\Debug\SubscriptExeptionTest.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\SubscriptExeptionTest\SubscriptExeptionTest\obj\Debug\SubscriptExeptionTest.pdb

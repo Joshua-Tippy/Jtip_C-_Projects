@@ -1,0 +1,14 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\ClassifiedAd\TestClassifiedAd\TestClassifiedAd\bin\Debug\TestClassifiedAd.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\ClassifiedAd\TestClassifiedAd\TestClassifiedAd\bin\Debug\TestClassifiedAd.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\ClassifiedAd\TestClassifiedAd\TestClassifiedAd\bin\Debug\TestClassifiedAd.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\ClassifiedAd\TestClassifiedAd\TestClassifiedAd\obj\Debug\TestClassifiedAd.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\ClassifiedAd\TestClassifiedAd\TestClassifiedAd\obj\Debug\TestClassifiedAd.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\ClassifiedAd\TestClassifiedAd\TestClassifiedAd\obj\Debug\TestClassifiedAd.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\ClassifiedAd\TestClassifiedAd\TestClassifiedAd\obj\Debug\TestClassifiedAd.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch 9 Accessor Assignments\TestClassifiedAd\TestClassifiedAd\bin\Debug\TestClassifiedAd.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch 9 Accessor Assignments\TestClassifiedAd\TestClassifiedAd\bin\Debug\TestClassifiedAd.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch 9 Accessor Assignments\TestClassifiedAd\TestClassifiedAd\bin\Debug\TestClassifiedAd.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch 9 Accessor Assignments\TestClassifiedAd\TestClassifiedAd\obj\Debug\TestClassifiedAd.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch 9 Accessor Assignments\TestClassifiedAd\TestClassifiedAd\obj\Debug\TestClassifiedAd.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch 9 Accessor Assignments\TestClassifiedAd\TestClassifiedAd\obj\Debug\TestClassifiedAd.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch 9 Accessor Assignments\TestClassifiedAd\TestClassifiedAd\obj\Debug\TestClassifiedAd.pdb

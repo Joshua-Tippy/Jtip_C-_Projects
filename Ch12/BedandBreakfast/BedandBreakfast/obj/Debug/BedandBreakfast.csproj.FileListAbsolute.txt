@@ -1,0 +1,13 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\BedandBreakfast\BedandBreakfast\bin\Debug\BedandBreakfast.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\BedandBreakfast\BedandBreakfast\bin\Debug\BedandBreakfast.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\BedandBreakfast\BedandBreakfast\bin\Debug\BedandBreakfast.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\BedandBreakfast\BedandBreakfast\obj\Debug\BedandBreakfast.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\BedandBreakfast\BedandBreakfast\obj\Debug\BedandBreakfast.BaileysForm.resources
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\BedandBreakfast\BedandBreakfast\obj\Debug\BedandBreakfast.Properties.Resources.resources
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\BedandBreakfast\BedandBreakfast\obj\Debug\BedandBreakfast.csproj.GenerateResource.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\BedandBreakfast\BedandBreakfast\obj\Debug\BedandBreakfast.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\BedandBreakfast\BedandBreakfast\obj\Debug\BedandBreakfast.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\BedandBreakfast\BedandBreakfast\obj\Debug\BedandBreakfast.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\BedandBreakfast\BedandBreakfast\obj\Debug\BedandBreakfast.BelleAireForm.resources
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\BedandBreakfast\BedandBreakfast\obj\Debug\BedandBreakfast.LincolnForm.resources
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch12\BedandBreakfast\BedandBreakfast\obj\Debug\BedandBreakfast.BreakfastOptionForm.resources

@@ -1,0 +1,6 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Book_Fine\Book_Fine\Book_Fine\bin\Debug\Book_Fine.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Book_Fine\Book_Fine\Book_Fine\bin\Debug\Book_Fine.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Book_Fine\Book_Fine\Book_Fine\bin\Debug\Book_Fine.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Book_Fine\Book_Fine\Book_Fine\obj\Debug\Book_Fine.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Book_Fine\Book_Fine\Book_Fine\obj\Debug\Book_Fine.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Book_Fine\Book_Fine\Book_Fine\obj\Debug\Book_Fine.pdb

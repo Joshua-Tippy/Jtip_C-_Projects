@@ -1,0 +1,14 @@
+C:\Users\joshu\source\repos\PackageCalculator\PackageCalculator\bin\Debug\PackageCalculator.exe.config
+C:\Users\joshu\source\repos\PackageCalculator\PackageCalculator\bin\Debug\PackageCalculator.exe
+C:\Users\joshu\source\repos\PackageCalculator\PackageCalculator\bin\Debug\PackageCalculator.pdb
+C:\Users\joshu\source\repos\PackageCalculator\PackageCalculator\obj\Debug\PackageCalculator.csprojAssemblyReference.cache
+C:\Users\joshu\source\repos\PackageCalculator\PackageCalculator\obj\Debug\PackageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\PackageCalculator\PackageCalculator\obj\Debug\PackageCalculator.exe
+C:\Users\joshu\source\repos\PackageCalculator\PackageCalculator\obj\Debug\PackageCalculator.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\PackageCalculator\PackageCalculator\bin\Debug\PackageCalculator.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\PackageCalculator\PackageCalculator\bin\Debug\PackageCalculator.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\PackageCalculator\PackageCalculator\bin\Debug\PackageCalculator.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\PackageCalculator\PackageCalculator\obj\Debug\PackageCalculator.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\PackageCalculator\PackageCalculator\obj\Debug\PackageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\PackageCalculator\PackageCalculator\obj\Debug\PackageCalculator.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\PackageCalculator\PackageCalculator\obj\Debug\PackageCalculator.pdb

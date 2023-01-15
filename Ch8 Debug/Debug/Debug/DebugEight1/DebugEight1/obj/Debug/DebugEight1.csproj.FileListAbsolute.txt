@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch8 Debug\Debug\Debug\DebugEight1\DebugEight1\bin\Debug\DebugEight1.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch8 Debug\Debug\Debug\DebugEight1\DebugEight1\bin\Debug\DebugEight1.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch8 Debug\Debug\Debug\DebugEight1\DebugEight1\bin\Debug\DebugEight1.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch8 Debug\Debug\Debug\DebugEight1\DebugEight1\obj\Debug\DebugEight1.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch8 Debug\Debug\Debug\DebugEight1\DebugEight1\obj\Debug\DebugEight1.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch8 Debug\Debug\Debug\DebugEight1\DebugEight1\obj\Debug\DebugEight1.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch8 Debug\Debug\Debug\DebugEight1\DebugEight1\obj\Debug\DebugEight1.pdb

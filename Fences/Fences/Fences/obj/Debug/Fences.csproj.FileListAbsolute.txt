@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Fences\Fences\Fences\bin\Debug\Fences.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Fences\Fences\Fences\bin\Debug\Fences.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Fences\Fences\Fences\bin\Debug\Fences.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Fences\Fences\Fences\obj\Debug\Fences.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Fences\Fences\Fences\obj\Debug\Fences.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Fences\Fences\Fences\obj\Debug\Fences.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Fences\Fences\Fences\obj\Debug\Fences.pdb

@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\StudendGradeDemo\StudendGradeDemo\bin\Debug\StudendGradeDemo.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\StudendGradeDemo\StudendGradeDemo\bin\Debug\StudendGradeDemo.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\StudendGradeDemo\StudendGradeDemo\bin\Debug\StudendGradeDemo.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\StudendGradeDemo\StudendGradeDemo\obj\Debug\StudendGradeDemo.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\StudendGradeDemo\StudendGradeDemo\obj\Debug\StudendGradeDemo.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\StudendGradeDemo\StudendGradeDemo\obj\Debug\StudendGradeDemo.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\StudendGradeDemo\StudendGradeDemo\obj\Debug\StudendGradeDemo.pdb

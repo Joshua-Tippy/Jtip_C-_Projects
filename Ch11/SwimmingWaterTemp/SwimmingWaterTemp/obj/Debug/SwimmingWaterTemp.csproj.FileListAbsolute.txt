@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\SwimmingWaterTemp\SwimmingWaterTemp\bin\Debug\SwimmingWaterTemp.exe.config
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\SwimmingWaterTemp\SwimmingWaterTemp\bin\Debug\SwimmingWaterTemp.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\SwimmingWaterTemp\SwimmingWaterTemp\bin\Debug\SwimmingWaterTemp.pdb
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\SwimmingWaterTemp\SwimmingWaterTemp\obj\Debug\SwimmingWaterTemp.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\SwimmingWaterTemp\SwimmingWaterTemp\obj\Debug\SwimmingWaterTemp.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\SwimmingWaterTemp\SwimmingWaterTemp\obj\Debug\SwimmingWaterTemp.exe
+C:\Users\joshu\OneDrive\Documents\Advanced Application\Ch11\SwimmingWaterTemp\SwimmingWaterTemp\obj\Debug\SwimmingWaterTemp.pdb
